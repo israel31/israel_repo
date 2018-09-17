@@ -1,0 +1,55 @@
+body{
+    background-color: lightslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+aside{
+    width: 150px;
+    height: 900px;
+float: left;
+background-color: ghostwhite;
+}
+#logospace{
+   
+    padding-left: 300px;
+    padding-right: 150px;
+    clear: right;
+}
+header{
+    color: lightslategrey;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 658px; 
+    height: 70px; 
+    font-size: 25px; 
+    background-color:darkgrey;
+    text-shadow: 2px 2px 5px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    clear: right;
+}
+
+#content{
+    padding-left: 300px; padding-right: 300px;
+}
+section{
+    margin: 0px;
+    padding-left: 50px; padding-right: 50px; padding-top: 50px; background-color: white
+}
+.heading{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.form{
+    line-height: 2px;
+    font-size: 20px
+}
+textarea{
+    width: 250px; height: 100px
+}
+button{
+    text-shadow: 2px 2px 5px grey;
+     font-family:monospace; font-size: 20px;
+      background-color: green; 
+      width: 100px; height: 40px;
+}
